@@ -1,6 +1,6 @@
 Sup! I'm Crispa
 
-I’m currently learning HTML, CSS, JS, Angular, Java and Spring Framework.
+I’m currently learning about Databases (Modeling, Structure, SQL and MySQL with Oracle)
 
 ##
 
